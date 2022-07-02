@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">hw7_m5</string>
+    <string name="result">result</string>
+    <string name="first_number">first number</string>
+    <string name="second_number">second number</string>
+    <string name="plus">plus</string>
+    <string name="divide">divide</string>
+</resources>
